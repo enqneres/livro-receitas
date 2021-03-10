@@ -2,6 +2,6 @@
 
 Ola! Bem vindo ao meu livro de receitas :wave:
 
-> Strogonoff de Frango
->
-> Pave
+- Strogonoff de frango
+- Pave
+- Bolo de cenoura
